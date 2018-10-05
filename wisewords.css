@@ -86,13 +86,17 @@ body {
   background-color: #92bedb;
   color: #fff;
   display: grid;
+  grid-template-rows: 25%, auto, auto, 25%;
+  grid-template-columns: auto;
 }
 h1 {
   font-family: 'Shrikhand', Helvetica, serif;
   text-shadow: -8px 8px 6px rgba(0, 0, 0, .4);
   text-align: center;
   font-size: 4em;
-  margin: 50px auto;
+  margin: 140px auto;
+  grid-column: 1;
+  grid-row: 1;
 }
 h2, h3, p {
   font-family: 'Quicksand', Arial, sans-serif;
@@ -101,10 +105,10 @@ h2, h3, p {
 p {
   font-size: 1.9em;
   text-align: center;
-  display: block;
-  margin: 0 auto;
-  margin: 80px auto 0 auto;
-  width: 80%;
+  margin: 50px auto;
+  width: 95%;
+  grid-row: 2;
+  grid-column: 1;
 }
 h2 {
   font-size: 2em;
@@ -122,29 +126,32 @@ button {
   color: #fff;
   font-size: 1.5em;
   filter: drop-shadow(-3px 3px 3px rgba(0, 0, 0, 0.2));
-  position: absolute;
-  top: 380px;
-  left: 550px;
+  grid-row: 3;
+  grid-column: 1;
+  margin: 70px auto 0 auto;
 }
-button :focus {
-  outline: 0;
+a {
+  text-decoration: none;
+  color: #fff;
+
 }
+
 .kitten {
   max-width: 90px;
-  margin-top: -120px;
-  margin-left: 350px;
+  grid-column: 1;
+  grid-row: 1;
+  margin: 50px auto;
 }
-.demo {
-  width: 70%;
-}
-.github {
-  position: absolute;
-  top: 530px;
-  left: 640px;
+
+.githublink {
   opacity: .5;
+  grid-row: 4;
+  grid-column: 1;
+  margin: 70px auto;
 }
 .hashtag {
-  position: absolute;
-  top: 490px;
-  left: 560px;
+  grid-row: 4;
+  grid-column: 1;
+  text-align: center;
+  margin: 20px auto;
 }
