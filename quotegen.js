@@ -10,7 +10,7 @@ const quoteArray = ["Maybe I can get her to say 'Cat Kirk' when she's calling Ki
  "Your eyes are spinning in different directions.", "Ladies, gentlemen, honored guests... Who owns the silver Volvo, because your blocking me in.",
  "I took a lesson, the guy said I was a natural at falling.", "I want to get the healthy glow of someone who goes to the gym... Without having to go to the gym of course.",
  "Your demands are Kirk's demands. Your needs are Kirk's needs. Kirk is here for you.", "I discovered that Kirk likes my presence announced before I enter any room that he's in.",
- "I can't assault her before I tell her I lover her.", "I was kind of a target. I used to wear a cape to school.", "Sorry. My excitement must be clouding my ability to judge comedic hyperbole.",
+ "I can't assault her before I tell her I love her.", "I was kind of a target. I used to wear a cape to school.", "Sorry. My excitement must be clouding my ability to judge comedic hyperbole.",
  "Well frankly, I have my doubts about your dog's ability to predict the future.", "An oral agreement is only as good as the paper it's written on.",
  "I carried a duffel bag and ate lunch by myself my entire school career, and I turned out fine.", "Yes, but, how can I have a career as a Poe?",
  "This is the suit they buried my dad in."];
