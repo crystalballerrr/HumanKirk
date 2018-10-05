@@ -7,7 +7,7 @@ const quoteArray = ["Maybe I can get her to say 'Cat Kirk' when she's calling Ki
 "I don't even know his name. I was using random sounds,  tryin to see if he'd respond. Paku. Gnocchi. Nini. Bleeblo.",
  "Information is our greatest weapon.", "I had an imaginary girlfriend for a while when I was young, but she left me.",
  "Well, whimsy goes with everything.", "I don't know why everyone in this town always thinks I'm crazy.",
- "Your eyes are spinning in different directions.", "Ladies, gentlemen, honored guests... Who owns the silver Volvo, because your blocking me in.",
+ "Your eyes are spinning in different directions.", "Ladies, gentlemen, honored guests... Who owns the silver Volvo, because you're blocking me in.",
  "I took a lesson, the guy said I was a natural at falling.", "I want to get the healthy glow of someone who goes to the gym... Without having to go to the gym of course.",
  "Your demands are Kirk's demands. Your needs are Kirk's needs. Kirk is here for you.", "I discovered that Kirk likes my presence announced before I enter any room that he's in.",
  "I can't assault her before I tell her I love her.", "I was kind of a target. I used to wear a cape to school.", "Sorry. My excitement must be clouding my ability to judge comedic hyperbole.",
